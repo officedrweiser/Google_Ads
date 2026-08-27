@@ -150,7 +150,7 @@ Wien allein wäre zu klein.
 | Netzwerke | Suchnetzwerk **ja**, Suchnetzwerk-Partner **nein**, Displaynetzwerk **nein** | Displaynetzwerk in Suchkampagnen ist bei Kanzleien fast immer Streuverlust |
 | Sprachen | Deutsch + Englisch | Englisch für internationale Mandanten in Wien (Immobilienkauf, Gesellschaftsrecht) |
 | Anzeigenrotation | Optimieren | Standard, außer bei laufendem A/B-Test |
-| Werbezeitplan Phase 1 | Mo–Fr 07:00–20:00, Sa 09:00–18:00, So 12:00–21:00 | Sonntagabend ist erfahrungsgemäß eine starke Recherchezeit für Scheidungs- und Erbrechtsthemen |
+| Werbezeitplan Phase 1 | wird aus den Bürozeiten erzeugt, siehe Doc 12 | Der Zeitplan folgt der telefonischen Erreichbarkeit – nicht umgekehrt |
 | Werbezeitplan ab Phase 2 | rund um die Uhr | Bei Ziel-CPA ignoriert Google Gebotsanpassungen nach Uhrzeit ohnehin – dann besser die Automatik entscheiden lassen |
 | Zielgruppensegmente | „Beobachtung", nicht „Ausrichtung" | Daten sammeln, ohne Reichweite einzuschränken |
 

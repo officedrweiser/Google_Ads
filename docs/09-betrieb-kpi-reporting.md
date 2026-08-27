@@ -49,6 +49,9 @@ Mögliche Maßnahmen:
   drei zusätzlich angenommenen Anrufen)
 - Rückrufformular prominenter platzieren, wenn Anrufe strukturell nicht abgedeckt werden
 
+Das vollständige Konzept dazu — Zeitsteuerung des Anruf-Assets, Rückrufweg und
+Break-even des Annahmedienstes — steht in **Doc 12**.
+
 ### Reaktionszeit auf Formularanfragen
 
 Wer sich in einer Trennungssituation oder nach einem Todesfall an eine Kanzlei wendet,

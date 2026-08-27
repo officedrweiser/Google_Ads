@@ -27,6 +27,7 @@ Vertragsrecht · Gesellschafts- & Unternehmensrecht · Stiftungsrecht · Treuhan
 | 09 | [Betrieb, KPI & Reporting](docs/09-betrieb-kpi-reporting.md) | Wochen-/Monatsroutine, Kennzahlen |
 | 10 | [90-Tage-Fahrplan](docs/10-90-tage-fahrplan.md) | Konkrete Umsetzungsschritte mit Terminen |
 | 11 | [Claude-Skills für dieses Projekt](docs/11-claude-skills.md) | Antwort auf: „Welche Skills helfen uns dabei?" |
+| 12 | [Telefonische Erreichbarkeit](docs/12-telefonische-erreichbarkeit.md) | Werbezeitplan, Anruf-Asset, Rückrufweg, Annahmedienst |
 
 ## Daten und Werkzeuge
 
@@ -36,13 +37,15 @@ Vertragsrecht · Gesellschafts- & Unternehmensrecht · Stiftungsrecht · Treuhan
 data/keywords/          212 Keywords in 6 Dateien, nach Kampagne getrennt
 data/negativlisten/     192 Ausschluss-Keywords in 7 wiederverwendbaren Listen
 data/anzeigen/          449 Anzeigen-Assets + Anzeigenerweiterungen
+data/erreichbarkeit/    Bürozeiten und Nachfrageverteilung (Eingabedateien)
 ```
 
 ### Werkzeuge
 
 ```bash
 python3 tools/pruefe_anzeigen.py       # Zeichengrenzen, Duplikate, Standesrecht-Wortfilter
-python3 tools/baue_editor_import.py    # erzeugt import/ aus den Quelldateien
+python3 tools/baue_editor_import.py    # Keywords, Ausschlüsse und Anzeigen
+python3 tools/baue_werbezeitplan.py    # Werbezeitplan aus den Bürozeiten
 ```
 
 `pruefe_anzeigen.py` liefert Exit-Code 1 bei Fehlern und sollte nach jeder Textänderung laufen.
@@ -54,6 +57,8 @@ Aktueller Stand: **449 Assets, 30 Anzeigengruppen, 0 Beanstandungen.**
 import/keywords.csv           212 Keywords mit Zielseite und Gebot
 import/negative-keywords.csv  192 Ausschlüsse, den 7 Listen zugeordnet
 import/anzeigen-rsa.csv       30 Responsive Suchanzeigen im Breitformat
+import/werbezeitplan.csv      Zeitblöcke mit Gebotsanpassung nach Erreichbarkeit
+import/anruf-asset-zeitplan.csv  Einblendezeiten der Rufnummer
 ```
 
 Diese drei Dateien werden erzeugt, nicht von Hand bearbeitet. Änderungen gehören in
@@ -65,7 +70,7 @@ Diese drei Dateien werden erzeugt, nicht von Hand bearbeitet. Änderungen gehör
 - [ ] Google Business Profile für 1030 Wien angelegt und verifiziert
 - [ ] Consent-Management-Plattform mit Consent Mode v2 auf drweiser.at aktiv
 - [ ] Rechtsgebiete-Freigabe: Welche Bereiche sollen tatsächlich beworben werden? (siehe Doc 01)
-- [ ] Erreichbarkeit geklärt: Wer nimmt die Anrufe entgegen? (siehe Doc 09 – der häufigste Grund für verbranntes Budget)
+- [ ] **Bürozeiten in `data/erreichbarkeit/buerozeiten.csv` eingetragen** — die dort hinterlegten Zeiten sind nur eine Annahme (Doc 12). Unbesetzte Telefonzeiten sind der häufigste Grund für verbranntes Budget.
 
 ## Wichtiger Hinweis zu den Zahlen
 

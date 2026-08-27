@@ -1,0 +1,14 @@
+# EINGABEDATEI - bitte an die tatsaechlichen Kanzleizeiten anpassen.
+# Die Werte unten sind eine ANNAHME (uebliche Wiener Einzelkanzlei), keine erhobene Angabe.
+# Nach dem Anpassen ausfuehren:  python3 tools/baue_werbezeitplan.py
+#
+# Telefon besetzt = ja    -> Anruf-Asset wird eingeblendet, voller Gebotsfaktor
+# Telefon besetzt = nein  -> Anruf-Asset aus, Formular-Landingpage, reduziertes Gebot
+Wochentag,Von,Bis,Pause von,Pause bis,Telefon besetzt,Status
+Montag,09:00,17:00,12:00,13:00,ja,ANNAHME
+Dienstag,09:00,17:00,12:00,13:00,ja,ANNAHME
+Mittwoch,09:00,17:00,12:00,13:00,ja,ANNAHME
+Donnerstag,09:00,17:00,12:00,13:00,ja,ANNAHME
+Freitag,09:00,13:00,,,ja,ANNAHME
+Samstag,,,,,nein,ANNAHME
+Sonntag,,,,,nein,ANNAHME

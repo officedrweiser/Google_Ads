@@ -88,9 +88,12 @@ Sind alle drei erfüllt, Budget der betreffenden Kampagne um 20–25 % erhöhen 
 | Wien | 0 % | Referenz |
 | Radius 25 km | −10 % | |
 | Niederösterreich/Burgenland | −20 % | Nur Erbrecht und Immobilien |
-| Mo–Do 08:00–18:00 | +15 % | Anrufe werden entgegengenommen |
-| Fr 08:00–15:00 | +10 % | |
-| Sa/So und abends | −20 % | Formularanfragen laufen weiter, Anrufe nicht |
+| Zeitfenster mit besetztem Telefon | +10 bis +15 % | Anrufe werden entgegengenommen |
+| Zeitfenster ohne Telefonbesetzung | −25 % | Formularanfragen laufen weiter, Anrufe nicht |
+
+Die konkreten Zeitblöcke werden nicht von Hand gesetzt, sondern aus den Bürozeiten
+erzeugt: `python3 tools/baue_werbezeitplan.py` → `import/werbezeitplan.csv`.
+Siehe Doc 12.
 
 ### Ab Phase 2 (Smart Bidding)
 
