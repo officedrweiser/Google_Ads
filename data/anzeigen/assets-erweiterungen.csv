@@ -1,0 +1,27 @@
+Asset-Typ,Ebene,Text 1,Text 2,Text 3,Ziel-URL,Hinweis
+Sitelink,Konto,Scheidung & Familienrecht,Einvernehmlich oder strittig,Anwaltliche Vertretung in Wien,/scheidung,
+Sitelink,Konto,Erbrecht & Pflichtteil,Ansprüche prüfen lassen,Testament und Verlassenschaft,/erbrecht,
+Sitelink,Konto,Immobilien & Treuhand,Kaufvertrag und Abwicklung,Vertragserrichtung in Wien,/immobilienrecht,
+Sitelink,Konto,Gesellschaftsrecht,GmbH und FlexCo,Verträge und Beteiligungen,/gesellschaftsrecht,
+Sitelink,Konto,Kosten & Honorar,Transparente Auskunft,Wir besprechen die Kosten vorab,/honorar,
+Sitelink,Konto,Kontakt & Anfahrt,1030 Wien Landstraße,U3 Rochusgasse,/kontakt,
+Sitelink,Konto,Über die Kanzlei,Rechtsanwalt seit 1990,Dr. Martin Weiser,/kanzlei,
+Sitelink,Konto,Termin vereinbaren,Telefonisch oder online,Rückruf möglich,/termin,
+Callout,Konto,Kanzlei seit 1990,,,,
+Callout,Konto,Persönliche Betreuung,,,,
+Callout,Konto,Zentral in Wien Landstraße,,,,
+Callout,Konto,U3 Rochusgasse,,,,
+Callout,Konto,Termin nach Vereinbarung,,,,
+Callout,Konto,Deutsch und Englisch,,,,PRÜFEN ob zutreffend
+Callout,Konto,Honorar vorab besprochen,,,,
+Callout,Konto,Direkt mit dem Anwalt,,,,
+Snippet,Konto,Dienstleistungen: Scheidungsrecht,Familienrecht,Erbrecht,,Kopfzeile Dienstleistungen
+Snippet,Konto,Dienstleistungen: Immobilienrecht,Liegenschaftsrecht,Treuhandschaft,,Kopfzeile Dienstleistungen
+Snippet,Konto,Dienstleistungen: Gesellschaftsrecht,Unternehmensrecht,Stiftungsrecht,,Kopfzeile Dienstleistungen
+Anruf-Asset,Konto,+43 1 205 1003,,,,Nur zu Bürozeiten einblenden - Anrufberichte aktivieren
+Standort-Asset,Konto,Google Business Profile verknüpfen,,,,Profil muss vorher verifiziert sein
+Bild-Asset,Konto,Kanzleiräume und Portrait,,,,Keine Stockfotos mit Richterhammer - in Österreich unüblich
+Strukturierter Snippet,Konto,Marken: -,,,,NICHT verwenden
+Preis-Asset,Konto,-,,,,NICHT verwenden - Honorarangaben standesrechtlich heikel
+Promotion-Asset,Konto,-,,,,NICHT verwenden - Rabattwerbung unvereinbar mit dem Standesrecht
+Lead-Formular-Asset,Konto,-,,,,NICHT empfohlen - Datenqualität schwach und Verschwiegenheit kritisch
