@@ -1,0 +1,213 @@
+﻿Campaign,Ad Group,Keyword,Criterion Type,Max CPC,Final URL,Status
+BRAND | Dr. Weiser | AT | P1,Kanzleiname,dr weiser rechtsanwalt,Exact,1.50,https://drweiser.at/,Enabled
+BRAND | Dr. Weiser | AT | P1,Kanzleiname,kanzlei dr weiser,Exact,1.50,https://drweiser.at/,Enabled
+BRAND | Dr. Weiser | AT | P1,Kanzleiname,drweiser,Exact,1.00,https://drweiser.at/,Enabled
+BRAND | Dr. Weiser | AT | P1,Kanzleiname,drweiser at,Phrase,1.00,https://drweiser.at/,Enabled
+BRAND | Dr. Weiser | AT | P1,Kanzleiname,anwaltskanzlei weiser wien,Phrase,1.50,https://drweiser.at/,Enabled
+BRAND | Dr. Weiser | AT | P1,Personenname,dr martin weiser anwalt,Exact,1.50,https://drweiser.at/kanzlei,Enabled
+BRAND | Dr. Weiser | AT | P1,Personenname,martin weiser rechtsanwalt wien,Exact,1.50,https://drweiser.at/kanzlei,Enabled
+BRAND | Dr. Weiser | AT | P1,Personenname,rechtsanwalt weiser wien,Phrase,1.50,https://drweiser.at/kanzlei,Enabled
+BRAND | Dr. Weiser | AT | P1,Personenname,dr weiser landstraßer hauptstraße,Phrase,1.00,https://drweiser.at/kanzlei,Enabled
+BRAND | Dr. Weiser | AT | P1,Personenname,weiser anwalt 1030 wien,Phrase,1.50,https://drweiser.at/kanzlei,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Scheidungsanwalt,scheidungsanwalt wien,Exact,6.50,https://drweiser.at/scheidung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Scheidungsanwalt,anwalt scheidung wien,Exact,6.50,https://drweiser.at/scheidung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Scheidungsanwalt,rechtsanwalt scheidung wien,Exact,6.50,https://drweiser.at/scheidung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Scheidungsanwalt,scheidungsanwältin wien,Exact,6.00,https://drweiser.at/scheidung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Scheidungsanwalt,anwalt familienrecht wien,Exact,6.00,https://drweiser.at/scheidung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Scheidungsanwalt,scheidungsanwalt wien,Phrase,5.50,https://drweiser.at/scheidung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Scheidungsanwalt,anwalt für scheidung wien,Phrase,5.50,https://drweiser.at/scheidung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Scheidungsanwalt,scheidungsanwalt 1030 wien,Phrase,5.00,https://drweiser.at/scheidung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Scheidungsanwalt,scheidungsanwalt wien landstraße,Phrase,5.00,https://drweiser.at/scheidung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Scheidungsanwalt,familienrechtsanwalt wien,Phrase,5.50,https://drweiser.at/scheidung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Scheidungsanwalt,bester scheidungsanwalt wien,Phrase,5.00,https://drweiser.at/scheidung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Scheidungsanwalt,rechtsanwalt familienrecht wien,Phrase,5.50,https://drweiser.at/scheidung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Scheidungsanwalt,scheidung anwalt in der nähe,Phrase,4.50,https://drweiser.at/scheidung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Einvernehmliche Scheidung,einvernehmliche scheidung wien,Exact,5.50,https://drweiser.at/scheidung/einvernehmlich,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Einvernehmliche Scheidung,einvernehmliche scheidung anwalt,Exact,5.50,https://drweiser.at/scheidung/einvernehmlich,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Einvernehmliche Scheidung,einvernehmliche scheidung wien,Phrase,5.00,https://drweiser.at/scheidung/einvernehmlich,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Einvernehmliche Scheidung,einvernehmliche scheidung ablauf anwalt,Phrase,4.50,https://drweiser.at/scheidung/einvernehmlich,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Einvernehmliche Scheidung,scheidung 55a ehegesetz,Phrase,4.00,https://drweiser.at/scheidung/einvernehmlich,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Einvernehmliche Scheidung,scheidungsvergleich anwalt,Phrase,4.50,https://drweiser.at/scheidung/einvernehmlich,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Einvernehmliche Scheidung,scheidungsvereinbarung erstellen,Phrase,4.50,https://drweiser.at/scheidung/einvernehmlich,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Einvernehmliche Scheidung,scheidung ohne streit anwalt wien,Phrase,4.50,https://drweiser.at/scheidung/einvernehmlich,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Strittige Scheidung,strittige scheidung anwalt,Exact,6.00,https://drweiser.at/scheidung/strittig,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Strittige Scheidung,scheidungsklage wien,Exact,6.00,https://drweiser.at/scheidung/strittig,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Strittige Scheidung,streitige scheidung wien anwalt,Phrase,5.50,https://drweiser.at/scheidung/strittig,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Strittige Scheidung,scheidung aus verschulden anwalt,Phrase,5.50,https://drweiser.at/scheidung/strittig,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Strittige Scheidung,scheidungsklage einreichen anwalt,Phrase,5.50,https://drweiser.at/scheidung/strittig,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Strittige Scheidung,scheidung ohne zustimmung anwalt,Phrase,5.50,https://drweiser.at/scheidung/strittig,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Strittige Scheidung,scheidung partner will nicht anwalt,Phrase,5.00,https://drweiser.at/scheidung/strittig,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Unterhalt,unterhalt anwalt wien,Exact,5.50,https://drweiser.at/familienrecht/unterhalt,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Unterhalt,kindesunterhalt anwalt wien,Exact,5.50,https://drweiser.at/familienrecht/unterhalt,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Unterhalt,ehegattenunterhalt anwalt,Exact,5.50,https://drweiser.at/familienrecht/unterhalt,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Unterhalt,unterhalt einklagen wien,Phrase,5.00,https://drweiser.at/familienrecht/unterhalt,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Unterhalt,unterhaltsklage anwalt wien,Phrase,5.00,https://drweiser.at/familienrecht/unterhalt,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Unterhalt,unterhalt zahlt nicht anwalt,Phrase,5.00,https://drweiser.at/familienrecht/unterhalt,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Unterhalt,unterhalt herabsetzen anwalt,Phrase,5.00,https://drweiser.at/familienrecht/unterhalt,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Unterhalt,unterhaltsberechnung anwalt wien,Phrase,4.50,https://drweiser.at/familienrecht/unterhalt,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Obsorge Kontaktrecht,obsorge anwalt wien,Exact,5.50,https://drweiser.at/familienrecht/obsorge,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Obsorge Kontaktrecht,sorgerecht anwalt wien,Exact,5.50,https://drweiser.at/familienrecht/obsorge,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Obsorge Kontaktrecht,kontaktrecht anwalt wien,Exact,5.00,https://drweiser.at/familienrecht/obsorge,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Obsorge Kontaktrecht,besuchsrecht anwalt wien,Phrase,5.00,https://drweiser.at/familienrecht/obsorge,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Obsorge Kontaktrecht,alleinige obsorge beantragen anwalt,Phrase,5.00,https://drweiser.at/familienrecht/obsorge,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Obsorge Kontaktrecht,obsorgestreit anwalt wien,Phrase,5.00,https://drweiser.at/familienrecht/obsorge,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Obsorge Kontaktrecht,kind sehen dürfen anwalt wien,Phrase,4.50,https://drweiser.at/familienrecht/obsorge,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Vermögensaufteilung,aufteilung eheliches vermögen anwalt,Exact,5.50,https://drweiser.at/scheidung/vermoegensaufteilung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Vermögensaufteilung,ehewohnung scheidung anwalt,Exact,5.50,https://drweiser.at/scheidung/vermoegensaufteilung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Vermögensaufteilung,vermögensaufteilung scheidung wien,Phrase,5.00,https://drweiser.at/scheidung/vermoegensaufteilung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Vermögensaufteilung,aufteilungsverfahren scheidung anwalt,Phrase,5.00,https://drweiser.at/scheidung/vermoegensaufteilung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Vermögensaufteilung,haus bei scheidung anwalt wien,Phrase,5.00,https://drweiser.at/scheidung/vermoegensaufteilung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Vermögensaufteilung,immobilie scheidung aufteilung anwalt,Phrase,5.00,https://drweiser.at/scheidung/vermoegensaufteilung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Vermögensaufteilung,schulden bei scheidung anwalt wien,Phrase,4.50,https://drweiser.at/scheidung/vermoegensaufteilung,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Ehevertrag,ehevertrag wien,Exact,4.50,https://drweiser.at/familienrecht/ehevertrag,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Ehevertrag,ehevertrag anwalt,Exact,4.50,https://drweiser.at/familienrecht/ehevertrag,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Ehevertrag,ehepakt anwalt wien,Phrase,4.00,https://drweiser.at/familienrecht/ehevertrag,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Ehevertrag,partnerschaftsvertrag anwalt wien,Phrase,4.00,https://drweiser.at/familienrecht/ehevertrag,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Ehevertrag,ehevertrag erstellen wien,Phrase,4.50,https://drweiser.at/familienrecht/ehevertrag,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Ehevertrag,ehevertrag aufsetzen lassen,Phrase,4.50,https://drweiser.at/familienrecht/ehevertrag,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Kosten Honorar,scheidung kosten wien,Phrase,3.50,https://drweiser.at/scheidung/kosten,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Kosten Honorar,was kostet eine scheidung in wien,Phrase,3.50,https://drweiser.at/scheidung/kosten,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Kosten Honorar,scheidungskosten anwalt,Phrase,3.50,https://drweiser.at/scheidung/kosten,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Kosten Honorar,anwaltskosten scheidung österreich,Phrase,3.50,https://drweiser.at/scheidung/kosten,Enabled
+SUCHE | Scheidung+Familie | Wien+25km | P1,Kosten Honorar,einvernehmliche scheidung kosten anwalt,Phrase,3.50,https://drweiser.at/scheidung/kosten,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbrecht Allgemein,erbrecht anwalt wien,Exact,4.50,https://drweiser.at/erbrecht,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbrecht Allgemein,anwalt erbrecht wien,Exact,4.50,https://drweiser.at/erbrecht,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbrecht Allgemein,rechtsanwalt erbrecht wien,Exact,4.50,https://drweiser.at/erbrecht,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbrecht Allgemein,erbrechtsanwalt wien,Phrase,4.00,https://drweiser.at/erbrecht,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbrecht Allgemein,anwalt erbschaft wien,Phrase,4.00,https://drweiser.at/erbrecht,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbrecht Allgemein,fachanwalt erbrecht wien,Phrase,4.00,https://drweiser.at/erbrecht,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbrecht Allgemein,erbrecht beratung wien,Phrase,3.50,https://drweiser.at/erbrecht,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbrecht Allgemein,erbrecht anwalt 1030,Phrase,3.50,https://drweiser.at/erbrecht,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Pflichtteil,pflichtteil anwalt wien,Exact,4.50,https://drweiser.at/erbrecht/pflichtteil,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Pflichtteil,pflichtteil einklagen,Exact,4.50,https://drweiser.at/erbrecht/pflichtteil,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Pflichtteil,pflichtteilsanspruch anwalt,Exact,4.50,https://drweiser.at/erbrecht/pflichtteil,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Pflichtteil,pflichtteil berechnen anwalt,Phrase,4.00,https://drweiser.at/erbrecht/pflichtteil,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Pflichtteil,enterbt pflichtteil anwalt,Phrase,4.50,https://drweiser.at/erbrecht/pflichtteil,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Pflichtteil,pflichtteil geltend machen wien,Phrase,4.50,https://drweiser.at/erbrecht/pflichtteil,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Pflichtteil,schenkungsanrechnung pflichtteil anwalt,Phrase,4.00,https://drweiser.at/erbrecht/pflichtteil,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Pflichtteil,pflichtteil verkürzt anwalt,Phrase,4.00,https://drweiser.at/erbrecht/pflichtteil,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Pflichtteil,pflichtteilsminderung anwalt,Phrase,3.50,https://drweiser.at/erbrecht/pflichtteil,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Testament,testament anwalt wien,Exact,4.00,https://drweiser.at/erbrecht/testament,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Testament,testament erstellen wien,Exact,4.00,https://drweiser.at/erbrecht/testament,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Testament,testament anfechten anwalt,Exact,4.50,https://drweiser.at/erbrecht/testament,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Testament,testament aufsetzen anwalt wien,Phrase,3.50,https://drweiser.at/erbrecht/testament,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Testament,eigenhändiges testament anwalt,Phrase,3.50,https://drweiser.at/erbrecht/testament,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Testament,testament ungültig anwalt,Phrase,4.00,https://drweiser.at/erbrecht/testament,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Testament,letztwillige verfügung anwalt,Phrase,3.50,https://drweiser.at/erbrecht/testament,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Testament,notariatstestament anwalt wien,Phrase,3.50,https://drweiser.at/erbrecht/testament,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Testament,testament ändern anwalt wien,Phrase,3.50,https://drweiser.at/erbrecht/testament,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Verlassenschaft,verlassenschaftsverfahren anwalt,Exact,4.00,https://drweiser.at/erbrecht/verlassenschaft,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Verlassenschaft,erbantrittserklärung anwalt,Exact,4.00,https://drweiser.at/erbrecht/verlassenschaft,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Verlassenschaft,verlassenschaft anwalt wien,Phrase,4.00,https://drweiser.at/erbrecht/verlassenschaft,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Verlassenschaft,verlassenschaftsverfahren vertretung anwalt,Phrase,4.00,https://drweiser.at/erbrecht/verlassenschaft,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Verlassenschaft,nachlass anwalt wien,Phrase,3.50,https://drweiser.at/erbrecht/verlassenschaft,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Verlassenschaft,erbe ausschlagen anwalt wien,Phrase,3.50,https://drweiser.at/erbrecht/verlassenschaft,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Verlassenschaft,überschuldeter nachlass anwalt,Phrase,3.50,https://drweiser.at/erbrecht/verlassenschaft,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Verlassenschaft,inventar verlassenschaft anwalt,Phrase,3.00,https://drweiser.at/erbrecht/verlassenschaft,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbstreit,erbstreit anwalt wien,Exact,4.50,https://drweiser.at/erbrecht/erbstreit,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbstreit,erbengemeinschaft auflösen anwalt,Exact,4.50,https://drweiser.at/erbrecht/erbstreit,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbstreit,streit um erbe anwalt wien,Phrase,4.50,https://drweiser.at/erbrecht/erbstreit,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbstreit,erbschaftsstreit rechtsanwalt wien,Phrase,4.50,https://drweiser.at/erbrecht/erbstreit,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbstreit,miterben auszahlen anwalt,Phrase,4.00,https://drweiser.at/erbrecht/erbstreit,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbstreit,erbteilungsklage anwalt,Phrase,4.00,https://drweiser.at/erbrecht/erbstreit,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Erbstreit,erbschleicherei anwalt wien,Phrase,4.00,https://drweiser.at/erbrecht/erbstreit,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Schenkung Übergabe,schenkungsvertrag anwalt wien,Exact,4.00,https://drweiser.at/erbrecht/schenkung,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Schenkung Übergabe,übergabevertrag anwalt,Exact,4.00,https://drweiser.at/erbrecht/schenkung,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Schenkung Übergabe,haus überschreiben anwalt wien,Phrase,4.00,https://drweiser.at/erbrecht/schenkung,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Schenkung Übergabe,wohnung schenken vertrag anwalt,Phrase,4.00,https://drweiser.at/erbrecht/schenkung,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Schenkung Übergabe,vorweggenommene erbfolge anwalt,Phrase,3.50,https://drweiser.at/erbrecht/schenkung,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Schenkung Übergabe,schenkung auf den todesfall anwalt,Phrase,3.50,https://drweiser.at/erbrecht/schenkung,Enabled
+SUCHE | Erbrecht | Wien+NÖ | P1,Schenkung Übergabe,pflegevermächtnis anwalt,Phrase,3.00,https://drweiser.at/erbrecht/schenkung,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Immobilienrecht,immobilienrecht anwalt wien,Exact,4.00,https://drweiser.at/immobilienrecht,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Immobilienrecht,liegenschaftsrecht anwalt wien,Exact,4.00,https://drweiser.at/immobilienrecht,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Immobilienrecht,immobilienanwalt wien,Phrase,3.50,https://drweiser.at/immobilienrecht,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Immobilienrecht,rechtsanwalt immobilien wien,Phrase,3.50,https://drweiser.at/immobilienrecht,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Immobilienrecht,anwalt liegenschaft wien,Phrase,3.50,https://drweiser.at/immobilienrecht,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Kaufvertrag,kaufvertrag wohnung anwalt wien,Exact,4.00,https://drweiser.at/immobilienrecht/kaufvertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Kaufvertrag,immobilienkaufvertrag anwalt,Exact,4.00,https://drweiser.at/immobilienrecht/kaufvertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Kaufvertrag,kaufvertrag haus anwalt wien,Exact,4.00,https://drweiser.at/immobilienrecht/kaufvertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Kaufvertrag,vertragserrichtung immobilie wien,Phrase,3.50,https://drweiser.at/immobilienrecht/kaufvertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Kaufvertrag,kaufvertrag liegenschaft anwalt,Phrase,3.50,https://drweiser.at/immobilienrecht/kaufvertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Kaufvertrag,anwalt kaufvertrag eigentumswohnung,Phrase,3.50,https://drweiser.at/immobilienrecht/kaufvertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Kaufvertrag,kaufvertrag prüfen lassen anwalt wien,Phrase,3.50,https://drweiser.at/immobilienrecht/kaufvertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Kaufvertrag,kaufvertrag grundstück anwalt wien,Phrase,3.50,https://drweiser.at/immobilienrecht/kaufvertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Kaufvertrag,vertragserrichter immobilienkauf,Phrase,3.50,https://drweiser.at/immobilienrecht/kaufvertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Kaufvertrag,anwalt immobilienkauf wien kosten,Phrase,3.00,https://drweiser.at/immobilienrecht/kaufvertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Treuhand,treuhänder anwalt wien,Exact,3.50,https://drweiser.at/immobilienrecht/treuhand,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Treuhand,anwaltliche treuhandschaft,Exact,3.50,https://drweiser.at/immobilienrecht/treuhand,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Treuhand,treuhandabwicklung immobilienkauf,Phrase,3.50,https://drweiser.at/immobilienrecht/treuhand,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Treuhand,treuhandkonto rechtsanwalt wien,Phrase,3.00,https://drweiser.at/immobilienrecht/treuhand,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Treuhand,treuhand liegenschaftskauf anwalt,Phrase,3.50,https://drweiser.at/immobilienrecht/treuhand,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Treuhand,treuhandabwicklung kosten anwalt,Phrase,3.00,https://drweiser.at/immobilienrecht/treuhand,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Wohnungseigentum,wohnungseigentum anwalt wien,Exact,3.50,https://drweiser.at/immobilienrecht/wohnungseigentum,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Wohnungseigentum,wohnungseigentumsgesetz anwalt,Exact,3.50,https://drweiser.at/immobilienrecht/wohnungseigentum,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Wohnungseigentum,wohnungseigentumsvertrag anwalt,Phrase,3.50,https://drweiser.at/immobilienrecht/wohnungseigentum,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Wohnungseigentum,nutzwertgutachten anwalt wien,Phrase,3.00,https://drweiser.at/immobilienrecht/wohnungseigentum,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Wohnungseigentum,eigentümergemeinschaft streit anwalt wien,Phrase,3.50,https://drweiser.at/immobilienrecht/wohnungseigentum,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Wohnungseigentum,hausverwaltung streit anwalt wien,Phrase,3.50,https://drweiser.at/immobilienrecht/wohnungseigentum,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Wohnungseigentum,wohnungseigentum begründung anwalt,Phrase,3.00,https://drweiser.at/immobilienrecht/wohnungseigentum,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Bauträger Bauvertrag,bauträgervertrag anwalt wien,Exact,3.50,https://drweiser.at/immobilienrecht/bautraegervertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Bauträger Bauvertrag,bauträgervertrag prüfen anwalt,Phrase,3.50,https://drweiser.at/immobilienrecht/bautraegervertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Bauträger Bauvertrag,btvg anwalt wien,Phrase,3.00,https://drweiser.at/immobilienrecht/bautraegervertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Bauträger Bauvertrag,baumängel anwalt wien,Phrase,3.50,https://drweiser.at/immobilienrecht/bautraegervertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Bauträger Bauvertrag,werkvertrag bau anwalt wien,Phrase,3.00,https://drweiser.at/immobilienrecht/bautraegervertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Bauträger Bauvertrag,bauvertrag prüfen lassen wien,Phrase,3.00,https://drweiser.at/immobilienrecht/bautraegervertrag,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Grundbuch Dienstbarkeit,grundbuch anwalt wien,Exact,3.00,https://drweiser.at/immobilienrecht/grundbuch,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Grundbuch Dienstbarkeit,dienstbarkeit anwalt,Exact,3.00,https://drweiser.at/immobilienrecht/grundbuch,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Grundbuch Dienstbarkeit,servitut vertrag anwalt wien,Phrase,3.00,https://drweiser.at/immobilienrecht/grundbuch,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Grundbuch Dienstbarkeit,grundbuchseintragung anwalt wien,Phrase,3.00,https://drweiser.at/immobilienrecht/grundbuch,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Grundbuch Dienstbarkeit,wohnrecht eintragen anwalt,Phrase,3.00,https://drweiser.at/immobilienrecht/grundbuch,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Grundbuch Dienstbarkeit,fruchtgenussrecht anwalt wien,Phrase,3.00,https://drweiser.at/immobilienrecht/grundbuch,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Miet- und Wohnrecht OPTIONAL,mietrecht anwalt wien,Exact,4.00,https://drweiser.at/immobilienrecht/mietrecht,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Miet- und Wohnrecht OPTIONAL,anwalt mietrecht wien,Exact,4.00,https://drweiser.at/immobilienrecht/mietrecht,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Miet- und Wohnrecht OPTIONAL,mietvertrag prüfen anwalt wien,Phrase,3.50,https://drweiser.at/immobilienrecht/mietrecht,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Miet- und Wohnrecht OPTIONAL,räumungsklage anwalt wien,Phrase,4.00,https://drweiser.at/immobilienrecht/mietrecht,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Miet- und Wohnrecht OPTIONAL,mietzinsminderung anwalt wien,Phrase,3.50,https://drweiser.at/immobilienrecht/mietrecht,Enabled
+SUCHE | Immobilien+Treuhand | Wien+NÖ | P1,Miet- und Wohnrecht OPTIONAL,kündigung mietvertrag anwalt wien,Phrase,3.50,https://drweiser.at/immobilienrecht/mietrecht,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschaftsrecht Allgemein,gesellschaftsrecht anwalt wien,Exact,5.00,https://drweiser.at/gesellschaftsrecht,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschaftsrecht Allgemein,anwalt gesellschaftsrecht wien,Exact,5.00,https://drweiser.at/gesellschaftsrecht,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschaftsrecht Allgemein,unternehmensrecht anwalt wien,Phrase,4.50,https://drweiser.at/gesellschaftsrecht,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschaftsrecht Allgemein,wirtschaftsanwalt wien,Phrase,4.50,https://drweiser.at/gesellschaftsrecht,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschaftsrecht Allgemein,firmenanwalt wien,Phrase,4.00,https://drweiser.at/gesellschaftsrecht,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,GmbH FlexCo Gründung,gmbh gründung anwalt wien,Exact,5.00,https://drweiser.at/gesellschaftsrecht/gruendung,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,GmbH FlexCo Gründung,flexco gründen anwalt,Exact,3.00,https://drweiser.at/gesellschaftsrecht/gruendung,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,GmbH FlexCo Gründung,flexkapg gründung anwalt,Exact,3.00,https://drweiser.at/gesellschaftsrecht/gruendung,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,GmbH FlexCo Gründung,flexible kapitalgesellschaft anwalt,Phrase,3.00,https://drweiser.at/gesellschaftsrecht/gruendung,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,GmbH FlexCo Gründung,flexco gesellschaftsvertrag,Phrase,3.00,https://drweiser.at/gesellschaftsrecht/gruendung,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,GmbH FlexCo Gründung,gmbh gründen wien anwalt,Phrase,4.50,https://drweiser.at/gesellschaftsrecht/gruendung,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,GmbH FlexCo Gründung,gesellschaftsvertrag gmbh erstellen anwalt,Phrase,4.50,https://drweiser.at/gesellschaftsrecht/gruendung,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,GmbH FlexCo Gründung,gmbh gründung kosten anwalt wien,Phrase,4.00,https://drweiser.at/gesellschaftsrecht/gruendung,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,GmbH FlexCo Gründung,firmenbuch eintragung anwalt wien,Phrase,3.50,https://drweiser.at/gesellschaftsrecht/gruendung,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,GmbH FlexCo Gründung,startup gründung anwalt wien,Phrase,4.00,https://drweiser.at/gesellschaftsrecht/gruendung,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschafterverträge,syndikatsvertrag anwalt,Exact,4.50,https://drweiser.at/gesellschaftsrecht/vertraege,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschafterverträge,gesellschaftsvertrag anwalt wien,Exact,4.50,https://drweiser.at/gesellschaftsrecht/vertraege,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschafterverträge,syndikatsvertrag erstellen wien,Phrase,4.50,https://drweiser.at/gesellschaftsrecht/vertraege,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschafterverträge,gesellschaftervereinbarung anwalt,Phrase,4.00,https://drweiser.at/gesellschaftsrecht/vertraege,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschafterverträge,beteiligungsvertrag anwalt wien,Phrase,4.00,https://drweiser.at/gesellschaftsrecht/vertraege,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschafterverträge,gesellschaftsvertrag ändern anwalt,Phrase,4.00,https://drweiser.at/gesellschaftsrecht/vertraege,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Anteilsabtretung M&A,anteilsabtretung gmbh anwalt,Exact,5.00,https://drweiser.at/gesellschaftsrecht/unternehmenskauf,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Anteilsabtretung M&A,unternehmenskauf anwalt wien,Exact,5.50,https://drweiser.at/gesellschaftsrecht/unternehmenskauf,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Anteilsabtretung M&A,share deal anwalt wien,Phrase,5.00,https://drweiser.at/gesellschaftsrecht/unternehmenskauf,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Anteilsabtretung M&A,gmbh anteile verkaufen anwalt,Phrase,5.00,https://drweiser.at/gesellschaftsrecht/unternehmenskauf,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Anteilsabtretung M&A,due diligence anwalt wien,Phrase,5.00,https://drweiser.at/gesellschaftsrecht/unternehmenskauf,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Anteilsabtretung M&A,firmenübernahme anwalt wien,Phrase,4.50,https://drweiser.at/gesellschaftsrecht/unternehmenskauf,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschafterstreit,gesellschafterstreit anwalt wien,Exact,5.00,https://drweiser.at/gesellschaftsrecht/streit,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschafterstreit,geschäftsführerhaftung anwalt,Exact,5.00,https://drweiser.at/gesellschaftsrecht/streit,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschafterstreit,gesellschafter ausschließen anwalt,Phrase,4.50,https://drweiser.at/gesellschaftsrecht/streit,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschafterstreit,abberufung geschäftsführer anwalt,Phrase,4.50,https://drweiser.at/gesellschaftsrecht/streit,Enabled
+SUCHE | Gesellschaftsrecht | Wien+25km | P1,Gesellschafterstreit,gmbh gesellschafter konflikt anwalt,Phrase,4.50,https://drweiser.at/gesellschaftsrecht/streit,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Privatstiftung,privatstiftung anwalt,Exact,3.00,https://drweiser.at/stiftungsrecht,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Privatstiftung,stiftungsrecht anwalt wien,Exact,3.00,https://drweiser.at/stiftungsrecht,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Privatstiftung,privatstiftung gründen anwalt,Phrase,3.00,https://drweiser.at/stiftungsrecht,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Privatstiftung,privatstiftung beratung anwalt,Phrase,2.50,https://drweiser.at/stiftungsrecht,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Privatstiftung,privatstiftung auflösen anwalt,Phrase,3.00,https://drweiser.at/stiftungsrecht,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Privatstiftung,stiftungsvorstand beratung anwalt,Phrase,2.50,https://drweiser.at/stiftungsrecht,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Stiftungsurkunden,stiftungsurkunde erstellen anwalt,Exact,2.50,https://drweiser.at/stiftungsrecht/urkunden,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Stiftungsurkunden,stiftungszusatzurkunde anwalt,Exact,2.50,https://drweiser.at/stiftungsrecht/urkunden,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Stiftungsurkunden,stiftungserklärung ändern anwalt,Phrase,2.50,https://drweiser.at/stiftungsrecht/urkunden,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Stiftungsurkunden,begünstigtenregelung stiftung anwalt,Phrase,2.50,https://drweiser.at/stiftungsrecht/urkunden,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Vermögensnachfolge,vermögensnachfolge anwalt,Exact,3.00,https://drweiser.at/nachfolge,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Vermögensnachfolge,unternehmensnachfolge anwalt wien,Exact,3.50,https://drweiser.at/nachfolge,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Vermögensnachfolge,nachfolgeplanung familienunternehmen anwalt,Phrase,3.00,https://drweiser.at/nachfolge,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Vermögensnachfolge,betriebsübergabe anwalt wien,Phrase,3.00,https://drweiser.at/nachfolge,Enabled
+SUCHE | Stiftung+Nachfolge | AT | P2,Vermögensnachfolge,vermögensweitergabe beratung anwalt,Phrase,2.50,https://drweiser.at/nachfolge,Enabled

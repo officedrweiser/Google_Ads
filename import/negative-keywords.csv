@@ -1,0 +1,193 @@
+﻿Campaign,Negative Keyword List,Keyword,Criterion Type
+,L1 Jobs und Ausbildung,job,Campaign Negative Broad
+,L1 Jobs und Ausbildung,jobs,Campaign Negative Broad
+,L1 Jobs und Ausbildung,stelle,Campaign Negative Broad
+,L1 Jobs und Ausbildung,stellenangebot,Campaign Negative Broad
+,L1 Jobs und Ausbildung,stellenanzeige,Campaign Negative Broad
+,L1 Jobs und Ausbildung,karriere,Campaign Negative Broad
+,L1 Jobs und Ausbildung,praktikum,Campaign Negative Broad
+,L1 Jobs und Ausbildung,gehalt,Campaign Negative Broad
+,L1 Jobs und Ausbildung,verdienst,Campaign Negative Broad
+,L1 Jobs und Ausbildung,konzipient,Campaign Negative Broad
+,L1 Jobs und Ausbildung,konzipientin,Campaign Negative Broad
+,L1 Jobs und Ausbildung,rechtsanwaltsanwärter,Campaign Negative Broad
+,L1 Jobs und Ausbildung,rechtsanwaltsanwärterin,Campaign Negative Broad
+,L1 Jobs und Ausbildung,bewerbung,Campaign Negative Broad
+,L1 Jobs und Ausbildung,lebenslauf,Campaign Negative Broad
+,L1 Jobs und Ausbildung,jus studium,Campaign Negative Phrase
+,L1 Jobs und Ausbildung,studium,Campaign Negative Broad
+,L1 Jobs und Ausbildung,ausbildung,Campaign Negative Broad
+,L1 Jobs und Ausbildung,lehre,Campaign Negative Broad
+,L1 Jobs und Ausbildung,rechtsanwaltsprüfung,Campaign Negative Broad
+,L1 Jobs und Ausbildung,notariatsprüfung,Campaign Negative Broad
+,L1 Jobs und Ausbildung,kanzleiassistenz,Campaign Negative Broad
+,L1 Jobs und Ausbildung,sekretariat,Campaign Negative Broad
+,L1 Jobs und Ausbildung,werkstudent,Campaign Negative Broad
+,L1 Jobs und Ausbildung,diplomarbeit,Campaign Negative Broad
+,L1 Jobs und Ausbildung,bachelorarbeit,Campaign Negative Broad
+,L1 Jobs und Ausbildung,referat,Campaign Negative Broad
+,L2 Gratis und DIY,gratis,Campaign Negative Broad
+,L2 Gratis und DIY,kostenlos,Campaign Negative Broad
+,L2 Gratis und DIY,kostenlose,Campaign Negative Broad
+,L2 Gratis und DIY,kostenfrei,Campaign Negative Broad
+,L2 Gratis und DIY,umsonst,Campaign Negative Broad
+,L2 Gratis und DIY,unentgeltlich,Campaign Negative Broad
+,L2 Gratis und DIY,verfahrenshilfe,Campaign Negative Broad
+,L2 Gratis und DIY,prozesskostenhilfe,Campaign Negative Broad
+,L2 Gratis und DIY,arbeiterkammer,Campaign Negative Broad
+,L2 Gratis und DIY,ak wien,Campaign Negative Phrase
+,L2 Gratis und DIY,ögb,Campaign Negative Broad
+,L2 Gratis und DIY,mietervereinigung,Campaign Negative Broad
+,L2 Gratis und DIY,mieterhilfe,Campaign Negative Broad
+,L2 Gratis und DIY,volksanwaltschaft,Campaign Negative Broad
+,L2 Gratis und DIY,schuldnerberatung,Campaign Negative Broad
+,L2 Gratis und DIY,rechtsberatung kostenlos,Campaign Negative Phrase
+,L2 Gratis und DIY,erste anwaltliche auskunft,Campaign Negative Phrase
+,L2 Gratis und DIY,muster,Campaign Negative Broad
+,L2 Gratis und DIY,vorlage,Campaign Negative Broad
+,L2 Gratis und DIY,formular,Campaign Negative Broad
+,L2 Gratis und DIY,download,Campaign Negative Broad
+,L2 Gratis und DIY,pdf,Campaign Negative Broad
+,L2 Gratis und DIY,word,Campaign Negative Broad
+,L2 Gratis und DIY,selber machen,Campaign Negative Phrase
+,L2 Gratis und DIY,selbst machen,Campaign Negative Phrase
+,L2 Gratis und DIY,ohne anwalt,Campaign Negative Phrase
+,L2 Gratis und DIY,ohne rechtsanwalt,Campaign Negative Phrase
+,L2 Gratis und DIY,checkliste,Campaign Negative Broad
+,L2 Gratis und DIY,ausfüllhilfe,Campaign Negative Broad
+,L2 Gratis und DIY,rechner,Campaign Negative Broad
+,L2 Gratis und DIY,online scheidung,Campaign Negative Phrase
+,L3 Information,was ist,Campaign Negative Phrase
+,L3 Information,was bedeutet,Campaign Negative Phrase
+,L3 Information,bedeutung,Campaign Negative Broad
+,L3 Information,definition,Campaign Negative Broad
+,L3 Information,erklärung,Campaign Negative Broad
+,L3 Information,einfach erklärt,Campaign Negative Phrase
+,L3 Information,wikipedia,Campaign Negative Broad
+,L3 Information,wiki,Campaign Negative Broad
+,L3 Information,jusline,Campaign Negative Broad
+,L3 Information,ris bka,Campaign Negative Phrase
+,L3 Information,gesetzestext,Campaign Negative Broad
+,L3 Information,paragraph,Campaign Negative Broad
+,L3 Information,gesetzbuch,Campaign Negative Broad
+,L3 Information,abgb text,Campaign Negative Phrase
+,L3 Information,forum,Campaign Negative Broad
+,L3 Information,erfahrungen,Campaign Negative Broad
+,L3 Information,youtube,Campaign Negative Broad
+,L3 Information,video,Campaign Negative Broad
+,L3 Information,buch,Campaign Negative Broad
+,L3 Information,studie,Campaign Negative Broad
+,L3 Information,statistik,Campaign Negative Broad
+,L3 Information,news,Campaign Negative Broad
+,L3 Information,nachrichten,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,erbschein,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,nachlassgericht,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,amtsgericht,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,landgericht,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,oberlandesgericht münchen,Campaign Negative Phrase
+,L4 DE-Rechtsbegriffe,grundbuchamt,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,handelsregister,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,bgb,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,gbo,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,fachanwalt für,Campaign Negative Phrase
+,L4 DE-Rechtsbegriffe,jobcenter,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,bürgergeld,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,hartz,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,familienkasse,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,elterngeld,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,zugewinnausgleich,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,versorgungsausgleich,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,trennungsjahr,Campaign Negative Broad
+,L4 DE-Rechtsbegriffe,düsseldorfer tabelle,Campaign Negative Phrase
+,L4 DE-Rechtsbegriffe,gmbh ug,Campaign Negative Phrase
+,L4 DE-Rechtsbegriffe,unternehmergesellschaft,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,strafrecht,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,strafverteidiger,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,anzeige polizei,Campaign Negative Phrase
+,L5 Fremde Rechtsgebiete,verkehrsunfall,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,verkehrsrecht,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,führerschein,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,strafverfügung,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,verwaltungsstrafe,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,fremdenrecht,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,asyl,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,aufenthaltstitel,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,staatsbürgerschaft,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,rot-weiß-rot karte,Campaign Negative Phrase
+,L5 Fremde Rechtsgebiete,privatkonkurs,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,schuldenregulierung,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,insolvenzverfahren privat,Campaign Negative Phrase
+,L5 Fremde Rechtsgebiete,medizinrecht,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,arzthaftung,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,behandlungsfehler,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,arbeitsrecht,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,kündigung arbeitsvertrag,Campaign Negative Phrase
+,L5 Fremde Rechtsgebiete,sozialrecht,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,pensionsversicherung,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,berufsunfähigkeit,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,patentrecht,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,markenrecht,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,markenanmeldung,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,urheberrecht,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,abmahnung,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,dsgvo beratung,Campaign Negative Phrase
+,L5 Fremde Rechtsgebiete,datenschutzbeauftragter,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,steuerberater,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,steuerberatung,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,buchhaltung,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,notar,Campaign Negative Broad
+,L6 Portale,anwalt de,Campaign Negative Phrase
+,L6 Portale,anwaltssuche,Campaign Negative Broad
+,L6 Portale,anwaltsverzeichnis,Campaign Negative Broad
+,L6 Portale,herold,Campaign Negative Broad
+,L6 Portale,firmenabc,Campaign Negative Broad
+,L6 Portale,meinanwalt,Campaign Negative Broad
+,L6 Portale,rechteasy,Campaign Negative Broad
+,L6 Portale,advocado,Campaign Negative Broad
+,L6 Portale,klugo,Campaign Negative Broad
+,L6 Portale,rightmart,Campaign Negative Broad
+,L6 Portale,legalbird,Campaign Negative Broad
+,L6 Portale,frag einen anwalt,Campaign Negative Phrase
+,L6 Portale,123recht,Campaign Negative Broad
+,L6 Portale,wer weiss was,Campaign Negative Phrase
+,L6 Portale,rechtsanwaltskammer,Campaign Negative Broad
+,L6 Portale,oerak,Campaign Negative Broad
+,L6 Portale,rakwien,Campaign Negative Broad
+,L6 Portale,justizonline,Campaign Negative Broad
+,L6 Portale,österreich gv at,Campaign Negative Phrase
+,L6 Portale,help gv,Campaign Negative Phrase
+,L6 Portale,wko,Campaign Negative Broad
+,L6 Portale,rechtsschutzversicherung,Campaign Negative Broad
+,L6 Portale,arag,Campaign Negative Broad
+,L6 Portale,d a s rechtsschutz,Campaign Negative Phrase
+,L7 Standorte,graz,Campaign Negative Broad
+,L7 Standorte,linz,Campaign Negative Broad
+,L7 Standorte,salzburg,Campaign Negative Broad
+,L7 Standorte,innsbruck,Campaign Negative Broad
+,L7 Standorte,klagenfurt,Campaign Negative Broad
+,L7 Standorte,villach,Campaign Negative Broad
+,L7 Standorte,wels,Campaign Negative Broad
+,L7 Standorte,steyr,Campaign Negative Broad
+,L7 Standorte,bregenz,Campaign Negative Broad
+,L7 Standorte,dornbirn,Campaign Negative Broad
+,L7 Standorte,feldkirch,Campaign Negative Broad
+,L7 Standorte,leoben,Campaign Negative Broad
+,L7 Standorte,kufstein,Campaign Negative Broad
+,L7 Standorte,berlin,Campaign Negative Broad
+,L7 Standorte,münchen,Campaign Negative Broad
+,L7 Standorte,hamburg,Campaign Negative Broad
+,L7 Standorte,köln,Campaign Negative Broad
+,L7 Standorte,frankfurt,Campaign Negative Broad
+,L7 Standorte,stuttgart,Campaign Negative Broad
+,L7 Standorte,düsseldorf,Campaign Negative Broad
+,L7 Standorte,leipzig,Campaign Negative Broad
+,L7 Standorte,dresden,Campaign Negative Broad
+,L7 Standorte,zürich,Campaign Negative Broad
+,L7 Standorte,bern,Campaign Negative Broad
+,L7 Standorte,basel,Campaign Negative Broad
+,L7 Standorte,deutschland,Campaign Negative Broad
+,L7 Standorte,schweiz,Campaign Negative Broad
+,L7 Standorte,bayern,Campaign Negative Broad
+,L7 Standorte,ungarn,Campaign Negative Broad
+,L7 Standorte,slowakei,Campaign Negative Broad
+,L7 Standorte,bratislava,Campaign Negative Broad

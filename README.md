@@ -26,14 +26,36 @@ Vertragsrecht · Gesellschafts- & Unternehmensrecht · Stiftungsrecht · Treuhan
 | 10 | [90-Tage-Fahrplan](docs/10-90-tage-fahrplan.md) | Konkrete Umsetzungsschritte mit Terminen |
 | 11 | [Claude-Skills für dieses Projekt](docs/11-claude-skills.md) | Antwort auf: „Welche Skills helfen uns dabei?" |
 
-## Datendateien (direkt importierbar)
+## Daten und Werkzeuge
+
+### Quelldateien (gepflegt wird hier)
 
 ```
-data/keywords/          Keyword-Listen je Kampagne (CSV, Google-Ads-Editor-kompatibel)
-data/negativlisten/     Ausschluss-Keywords (Kontoebene + kampagnenspezifisch)
-data/anzeigen/          Responsive Suchanzeigen: Anzeigentitel & Beschreibungen
-tools/                  Prüfskripte (Zeichenlängen, Compliance-Wortfilter)
+data/keywords/          212 Keywords in 6 Dateien, nach Kampagne getrennt
+data/negativlisten/     192 Ausschluss-Keywords in 7 wiederverwendbaren Listen
+data/anzeigen/          449 Anzeigen-Assets + Anzeigenerweiterungen
 ```
+
+### Werkzeuge
+
+```bash
+python3 tools/pruefe_anzeigen.py       # Zeichengrenzen, Duplikate, Standesrecht-Wortfilter
+python3 tools/baue_editor_import.py    # erzeugt import/ aus den Quelldateien
+```
+
+`pruefe_anzeigen.py` liefert Exit-Code 1 bei Fehlern und sollte nach jeder Textänderung laufen.
+Aktueller Stand: **449 Assets, 30 Anzeigengruppen, 0 Beanstandungen.**
+
+### Importdateien für den Google Ads Editor
+
+```
+import/keywords.csv           212 Keywords mit Zielseite und Gebot
+import/negative-keywords.csv  192 Ausschlüsse, den 7 Listen zugeordnet
+import/anzeigen-rsa.csv       30 Responsive Suchanzeigen im Breitformat
+```
+
+Diese drei Dateien werden erzeugt, nicht von Hand bearbeitet. Änderungen gehören in
+`data/`, danach `tools/baue_editor_import.py` erneut ausführen.
 
 ## Vor dem Start prüfen
 
