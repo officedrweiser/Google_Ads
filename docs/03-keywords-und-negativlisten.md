@@ -4,8 +4,8 @@
 
 | | Anzahl | Datei |
 |---|---|---|
-| Aktive Keywords | 212 | `data/keywords/*.csv` |
-| Ausschluss-Keywords | 192 | `data/negativlisten/*.csv` |
+| Aktive Keywords | 206 | `data/keywords/*.csv` |
+| Ausschluss-Keywords | 217 | `data/negativlisten/*.csv` |
 | Anzeigengruppen | 30 | |
 
 Alle Listen sind dublettenfrei geprüft und liegen in einem Format vor, das sich mit dem
@@ -56,7 +56,7 @@ Kampagnen zugewiesen. Vorteil: Eine Änderung wirkt sofort in allen Kampagnen.
 | `L2` Gratis & DIY | 31 | Wer „gratis" oder „Muster" sucht, beauftragt keine Kanzlei |
 | `L3` Information & Recherche | 23 | Wissensfragen ohne Mandatsabsicht |
 | `L4` Deutsche Rechtsbegriffe | 21 | Erkennt deutschen Traffic zuverlässiger als Geo-Targeting |
-| `L5` Fremde Rechtsgebiete | 35 | Strafrecht, Asyl, Arbeitsrecht, Markenrecht usw. |
+| `L5` Fremde Rechtsgebiete | 60 | Strafrecht, Asyl, Arbeitsrecht, Markenrecht usw. |
 | `L6` Portale & Vermittler | 24 | Anwaltsverzeichnisse, Kammern, Rechtsschutzversicherer |
 | `L7` Standorte außerhalb | 31 | Graz, Linz, München, Zürich … |
 
@@ -83,15 +83,25 @@ in Österreich heißt das Dokument Einantwortungsbeschluss. Dasselbe gilt für
 „Trennungsjahr" und „Düsseldorfer Tabelle". Diese Liste fängt Traffic ab, den die
 Standorteinstellung durchlässt.
 
-**L5 – Fremde Rechtsgebiete: drei Einträge zum Prüfen.**
-- `arbeitsrecht` – auf der Website nicht als Schwerpunkt ausgewiesen. Falls Sie
-  Arbeitsrecht doch bearbeiten, muss der Eintrag entfernt und eine eigene
-  Anzeigengruppe ergänzt werden.
-- `notar` – notarielle Leistungen sind keine Anwaltsleistungen. Bei Immobilien- und
-  Gesellschaftsrecht suchen viele Menschen „Notar", meinen aber die Vertragserrichtung,
-  die auch ein Rechtsanwalt vornimmt. Hier ist ein Test sinnvoll: einige Wochen ohne
-  Ausschluss laufen lassen und die Anfragequalität beobachten.
+**L5 – Fremde Rechtsgebiete: erweitert um zwei Kanzleientscheidungen.**
+- `arbeitsrecht` – **bestätigt ausgeschlossen** (27. 08. 2026). Ergänzt um
+  `arbeitsvertrag`, `entlassung`, `kündigungsanfechtung`, `kollektivvertrag`,
+  `abfertigung`, `arbeitsgericht`, `betriebsrat`, `mobbing`, `überstunden`,
+  `urlaubsanspruch`, `karenz`.
+- `mietrecht` – **neu ausgeschlossen** (27. 08. 2026). Ergänzt um `mietvertrag`,
+  `mieter`, `vermieter`, `mietzins`, `hauptmietzins`, `untermiete`, `räumungsklage`,
+  `mrg`, `mietkaution`.
+- `notar` – weiterhin offen. Notarielle Leistungen sind keine Anwaltsleistungen. Bei
+  Immobilien- und Gesellschaftsrecht suchen viele Menschen „Notar", meinen aber die
+  Vertragserrichtung, die auch ein Rechtsanwalt vornimmt. Hier ist ein Test sinnvoll:
+  einige Wochen ohne Ausschluss laufen lassen und die Anfragequalität beobachten.
 - `steuerberater` / `buchhaltung` – klare Abgrenzung, kann ausgeschlossen bleiben.
+
+> **Drei Begriffe wurden bewusst NICHT ausgeschlossen**, obwohl sie thematisch naheliegen:
+> `dienstvertrag` (der Geschäftsführer-Dienstvertrag ist Gesellschaftsrecht),
+> `kündigung` (kollidiert mit Vertrags- und Gesellschaftsrecht) und `betriebskosten`
+> (auch ein Streitthema der Eigentümergemeinschaft). Ein Broad-Ausschluss dieser Wörter
+> hätte eigene Mandate mitblockiert.
 
 **L6 – `rechtsschutzversicherung`.** Zweischneidig: Ein Teil dieser Suchen sind
 Deckungsanfragen von Menschen, die tatsächlich ein Mandat erteilen wollen und wissen,
@@ -143,6 +153,21 @@ Verteidigung, nicht der Angriff.
 | Zweiwöchentlich (ab Monat 4) | dasselbe, geringere Frequenz |
 | Monatlich | Keywords mit 0 Impressionen über 60 Tage pausieren; Keywords mit hohem Verbrauch und 0 Conversions prüfen |
 | Quartalsweise | Negativlisten gegen neue Rechtsgebiete und Standorte durchsehen; auf zu breite Ausschlüsse prüfen (häufigster Fehler nach 12 Monaten) |
+
+### Automatische Konfliktprüfung
+
+Der genannte häufigste Fehler – ein Ausschluss, der eigene Keywords mitblockiert – lässt
+sich prüfen statt vermuten:
+
+```bash
+python3 tools/pruefe_negativlisten.py
+```
+
+Das Skript rechnet jedes Ausschluss-Keyword nach der Google-Logik (Broad = alle Wörter
+kommen vor, Phrase = zusammenhängende Wortfolge, Exact = exakte Übereinstimmung) gegen
+jedes aktive Keyword. Aktueller Stand: **206 Keywords × 217 Ausschlüsse = 44.702
+Kombinationen, 0 Konflikte.** Das Skript sollte nach jeder Erweiterung der
+Ausschlusslisten laufen.
 
 > **Achtung bei Broad-Match-Ausschlüssen:** Ein Ausschluss wie `kosten` (Broad) blockiert
 > auch „scheidungskosten anwalt wien". Ausschlüsse deshalb so eng wie möglich formulieren –

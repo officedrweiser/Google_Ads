@@ -86,14 +86,13 @@ Typ-Kürzel: `SUCHE` (Suchnetzwerk) · `DSA` (Dynamische Suchanzeigen) · `RMK` 
 | Wohnungseigentum | WEG, Nutzwerte, Eigentümergemeinschaft | /immobilienrecht/wohnungseigentum |
 | Bauträger- & Bauvertrag | BTVG, Baumängel, Werkvertrag | /immobilienrecht/bautraegervertrag |
 | Grundbuch & Dienstbarkeiten | Servitute, Wohnrecht, Eintragungen | /immobilienrecht/grundbuch |
-| Miet- & Wohnrecht *(optional)* | MRG, Räumung, Mietzins | /immobilienrecht/mietrecht |
 
-> **Entscheidung nötig:** Ist Miet- und Wohnrecht tatsächlich ein Tätigkeitsbereich der
-> Kanzlei? Auf der Website ist es unter „Liegenschaftsrecht" nicht ausdrücklich ausgewiesen.
-> Mietrecht bringt viel Volumen, aber niedrige Mandatswerte und viele Anfragen von
-> Mietern mit Rechtsschutzversicherung. Wenn Sie es nicht aktiv wollen: Anzeigengruppe
-> weglassen und die Mietrechts-Begriffe in die Negativliste aufnehmen. Die CSV-Dateien
-> enthalten beide Varianten.
+> **Entschieden am 27. 08. 2026: Mietrecht wird nicht beworben.** Die Anzeigengruppe
+> ist entfallen, die sechs Mietrechts-Keywords sind entfernt und die einschlägigen
+> Begriffe (`mietrecht`, `mietvertrag`, `mieter`, `vermieter`, `mietzins`,
+> `räumungsklage`, `mrg` u. a.) stehen jetzt in der Ausschlussliste L5. Damit bleibt die
+> Immobilienkampagne auf Vertragserrichtung, Treuhand und Wohnungseigentum konzentriert –
+> also auf die Mandate mit dem höchsten Wert.
 
 ### Kampagne 5 – SUCHE | Gesellschaftsrecht (Test)
 

@@ -33,7 +33,7 @@ Planungsannahmen (Wien, Suchnetzwerk, deutschsprachig):
 | Stiftungsrecht | 2,00 € | 4 % | 50 € | 15 % | **333 €** | 8.000–30.000 € | ~2 % | Nische, sehr lukrativ |
 | Scheidung: einvernehmlich | 5,00 € | 7 % | 71 € | 28 % | **255 €** | 2.000–3.500 € | ~10 % | Tragfähig |
 | Scheidung: strittig / Unterhalt / Obsorge | 6,00 € | 5 % | 120 € | 20 % | **600 €** | 4.000–12.000 € | ~9 % | Tragfähig, volatil |
-| Mietrecht (falls im Portfolio) | 3,50 € | 6 % | 58 € | 20 % | **292 €** | 1.200–3.000 € | ~15 % | Grenzwertig |
+| ~~Mietrecht~~ | 3,50 € | 6 % | 58 € | 20 % | **292 €** | 1.200–3.000 € | ~15 % | **Nicht im Portfolio** (Entscheidung 27. 08. 2026) |
 | Vertragsrecht allgemein | 2,00 € | 3 % | 67 € | 12 % | **558 €** | 600–2.000 € | >40 % | **Nicht bewerben** |
 | Mediation | 1,80 € | 4 % | 45 € | 15 % | **300 €** | 800–2.000 € | ~25 % | **Nicht bewerben** |
 

@@ -7,15 +7,16 @@
 | 1 | **EU-Werbetreibenden-Verifizierung im Google-Ads-Konto starten** | Kanzlei | ⚠️ dauert mehrere Werktage – zuerst erledigen |
 | 2 | Zahlungsmittel und Rechnungsdaten im Konto prüfen | Kanzlei | |
 | 3 | Google Business Profile für 1030 Wien anlegen/verifizieren | Kanzlei | Postkarte dauert 1–2 Wochen |
-| 4 | Entscheidung: Wird Mietrecht beworben? (Doc 02, Kampagne 4) | Kanzlei | ⚠️ blockiert Keyword-Import |
-| 5 | Entscheidung: Wird Arbeitsrecht bearbeitet? (Doc 03, Liste L5) | Kanzlei | ⚠️ blockiert Negativliste |
+| 4 | ~~Entscheidung: Wird Mietrecht beworben?~~ | Kanzlei | ✅ erledigt 27. 08. – nein |
+| 5 | ~~Entscheidung: Wird Arbeitsrecht bearbeitet?~~ | Kanzlei | ✅ erledigt 27. 08. – nein |
 | 6 | Entscheidung: Werden Notariatsleistungen beworben? (Doc 03) | Kanzlei | |
-| 7 | Erreichbarkeit klären: Wer nimmt Anrufe wann entgegen? | Kanzlei | ⚠️ bestimmt den Werbezeitplan |
+| 7 | ~~Erreichbarkeit klären~~ | Kanzlei | ✅ erledigt 27. 08. – Mo–Do 9–17, Fr 9–13, durchgehend besetzt |
 | 8 | Durchschnittliche Mandatswerte je Rechtsgebiet zusammenstellen | Kanzlei | Grundlage für alle CPA-Ziele |
 | 9 | Budget bestätigen (Vorschlag: 1.800 €/Monat) | Kanzlei | |
 
-**Die vier Entscheidungen (4–7) sind der einzige echte Engpass in diesem Fahrplan.**
-Alles Weitere kann parallel vorbereitet werden.
+**Von den vier Entscheidungen (4–7) sind drei erledigt.** Offen bleiben Punkt 6
+(Notariatsleistungen) und Punkt 8 (Mandatswerte je Rechtsgebiet). Alles Weitere kann
+parallel vorbereitet werden.
 
 ## Woche 2 – Website und Messung
 

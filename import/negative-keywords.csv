@@ -136,6 +136,31 @@
 ,L5 Fremde Rechtsgebiete,steuerberatung,Campaign Negative Broad
 ,L5 Fremde Rechtsgebiete,buchhaltung,Campaign Negative Broad
 ,L5 Fremde Rechtsgebiete,notar,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,arbeitsvertrag,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,entlassung,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,kündigungsanfechtung,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,kollektivvertrag,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,abfertigung,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,arbeitsgericht,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,arbeits und sozialgericht,Campaign Negative Phrase
+,L5 Fremde Rechtsgebiete,betriebsrat,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,mobbing,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,überstunden,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,urlaubsanspruch,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,dienstzeugnis,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,karenz,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,mietrecht,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,mietvertrag,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,mieter,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,vermieter,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,mietzins,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,hauptmietzins,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,untermiete,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,räumungsklage,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,mrg,Campaign Negative Broad
+,L5 Fremde Rechtsgebiete,befristeter mietvertrag,Campaign Negative Phrase
+,L5 Fremde Rechtsgebiete,wohnung mieten,Campaign Negative Phrase
+,L5 Fremde Rechtsgebiete,mietkaution,Campaign Negative Broad
 ,L6 Portale,anwalt de,Campaign Negative Phrase
 ,L6 Portale,anwaltssuche,Campaign Negative Broad
 ,L6 Portale,anwaltsverzeichnis,Campaign Negative Broad

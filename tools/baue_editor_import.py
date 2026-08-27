@@ -53,7 +53,6 @@ ZIELSEITEN = {
     "Wohnungseigentum":             ("/immobilienrecht/wohnungseigentum",     "Immobilien",   "Wien"),
     "Bauträger Bauvertrag":         ("/immobilienrecht/bautraegervertrag",    "Immobilien",   "Wien"),
     "Grundbuch Dienstbarkeit":      ("/immobilienrecht/grundbuch",            "Immobilien",   "Wien"),
-    "Miet- und Wohnrecht OPTIONAL": ("/immobilienrecht/mietrecht",            "Immobilien",   "Wien"),
     "Gesellschaftsrecht Allgemein": ("/gesellschaftsrecht",                   "Gesellschaft", "Wien"),
     "GmbH FlexCo Gründung":         ("/gesellschaftsrecht/gruendung",         "Gesellschaft", "Wien"),
     "Gesellschafterverträge":       ("/gesellschaftsrecht/vertraege",         "Gesellschaft", "Wien"),
@@ -153,20 +152,38 @@ def main() -> int:
     n_neg = negative_zusammenfuehren()
     n_ads = anzeigen_breitformat()
 
-    fehlend = sorted(
-        {r["Ad Group"].strip() for p in glob.glob("data/keywords/*.csv")
-         for r in csv.DictReader(open(p, encoding="utf-8"))} - set(ZIELSEITEN)
-    )
+    kw_gruppen = {r["Ad Group"].strip() for p in glob.glob("data/keywords/*.csv")
+                  for r in csv.DictReader(open(p, encoding="utf-8"))}
+    ad_gruppen = {r["Ad Group"].strip()
+                  for r in csv.DictReader(open("data/anzeigen/rsa-anzeigentexte.csv",
+                                               encoding="utf-8"))}
+    fehlend = sorted(kw_gruppen - set(ZIELSEITEN))
+    ohne_anzeige = sorted(kw_gruppen - ad_gruppen)
+    ohne_keyword = sorted(ad_gruppen - kw_gruppen)
 
     print(f"import/keywords.csv           {n_kw:>3} Keywords")
     print(f"import/negative-keywords.csv  {n_neg:>3} Ausschlüsse")
     print(f"import/anzeigen-rsa.csv       {n_ads:>3} Anzeigen (je eine RSA pro Anzeigengruppe)")
+    probleme = False
     if fehlend:
         print("\nWARNUNG – Anzeigengruppen ohne hinterlegte Zielseite:")
         for ag in fehlend:
             print("  !", ag)
+        probleme = True
+    if ohne_anzeige:
+        print("\nWARNUNG – Anzeigengruppen mit Keywords, aber ohne Anzeigentexte:")
+        for ag in ohne_anzeige:
+            print("  !", ag, "– würde live gehen, ohne dass eine Anzeige ausgeliefert wird")
+        probleme = True
+    if ohne_keyword:
+        print("\nWARNUNG – Anzeigentexte ohne zugehörige Keywords:")
+        for ag in ohne_keyword:
+            print("  !", ag, "– die Anzeige würde nie ausgeliefert")
+        probleme = True
+    if probleme:
         return 1
-    print("\nAlle Anzeigengruppen haben eine Zielseite. Dateien liegen in import/.")
+    print(f"\nAlle {len(kw_gruppen)} Anzeigengruppen haben Keywords, Anzeigentexte "
+          f"und eine Zielseite. Dateien liegen in import/.")
     return 0
 
 

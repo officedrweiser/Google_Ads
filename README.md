@@ -34,8 +34,8 @@ Vertragsrecht · Gesellschafts- & Unternehmensrecht · Stiftungsrecht · Treuhan
 ### Quelldateien (gepflegt wird hier)
 
 ```
-data/keywords/          212 Keywords in 6 Dateien, nach Kampagne getrennt
-data/negativlisten/     192 Ausschluss-Keywords in 7 wiederverwendbaren Listen
+data/keywords/          206 Keywords in 6 Dateien, nach Kampagne getrennt
+data/negativlisten/     217 Ausschluss-Keywords in 7 wiederverwendbaren Listen
 data/anzeigen/          449 Anzeigen-Assets + Anzeigenerweiterungen
 data/erreichbarkeit/    Bürozeiten und Nachfrageverteilung (Eingabedateien)
 ```
@@ -44,6 +44,7 @@ data/erreichbarkeit/    Bürozeiten und Nachfrageverteilung (Eingabedateien)
 
 ```bash
 python3 tools/pruefe_anzeigen.py       # Zeichengrenzen, Duplikate, Standesrecht-Wortfilter
+python3 tools/pruefe_negativlisten.py  # blockiert ein Ausschluss eigene Keywords?
 python3 tools/baue_editor_import.py    # Keywords, Ausschlüsse und Anzeigen
 python3 tools/baue_werbezeitplan.py    # Werbezeitplan aus den Bürozeiten
 ```
@@ -54,8 +55,8 @@ Aktueller Stand: **449 Assets, 30 Anzeigengruppen, 0 Beanstandungen.**
 ### Importdateien für den Google Ads Editor
 
 ```
-import/keywords.csv           212 Keywords mit Zielseite und Gebot
-import/negative-keywords.csv  192 Ausschlüsse, den 7 Listen zugeordnet
+import/keywords.csv           206 Keywords mit Zielseite und Gebot
+import/negative-keywords.csv  217 Ausschlüsse, den 7 Listen zugeordnet
 import/anzeigen-rsa.csv       30 Responsive Suchanzeigen im Breitformat
 import/werbezeitplan.csv      Zeitblöcke mit Gebotsanpassung nach Erreichbarkeit
 import/anruf-asset-zeitplan.csv  Einblendezeiten der Rufnummer
@@ -69,8 +70,8 @@ Diese drei Dateien werden erzeugt, nicht von Hand bearbeitet. Änderungen gehör
 - [ ] Google-Ads-Konto: EU-Werbetreibenden-Verifizierung abgeschlossen (sonst pausieren die Anzeigen)
 - [ ] Google Business Profile für 1030 Wien angelegt und verifiziert
 - [ ] Consent-Management-Plattform mit Consent Mode v2 auf drweiser.at aktiv
-- [ ] Rechtsgebiete-Freigabe: Welche Bereiche sollen tatsächlich beworben werden? (siehe Doc 01)
-- [ ] **Bürozeiten in `data/erreichbarkeit/buerozeiten.csv` eingetragen** — die dort hinterlegten Zeiten sind nur eine Annahme (Doc 12). Unbesetzte Telefonzeiten sind der häufigste Grund für verbranntes Budget.
+- [x] Rechtsgebiete-Freigabe erteilt (27. 08. 2026): kein Mietrecht, kein Arbeitsrecht
+- [x] Bürozeiten eingetragen: Mo–Do 09:00–17:00, Fr 09:00–13:00, durchgehend besetzt (Doc 12)
 
 ## Wichtiger Hinweis zu den Zahlen
 

@@ -18,8 +18,8 @@ L5 Fremde Rechtsgebiete,insolvenzverfahren privat,Phrase,
 L5 Fremde Rechtsgebiete,medizinrecht,Broad,
 L5 Fremde Rechtsgebiete,arzthaftung,Broad,
 L5 Fremde Rechtsgebiete,behandlungsfehler,Broad,
-L5 Fremde Rechtsgebiete,arbeitsrecht,Broad,PRUEFEN - ausschließen falls nicht im Portfolio
-L5 Fremde Rechtsgebiete,kündigung arbeitsvertrag,Phrase,PRUEFEN
+L5 Fremde Rechtsgebiete,arbeitsrecht,Broad,Kanzleientscheidung 27.08.2026 - nicht im Portfolio
+L5 Fremde Rechtsgebiete,kündigung arbeitsvertrag,Phrase,Kanzleientscheidung 27.08.2026
 L5 Fremde Rechtsgebiete,sozialrecht,Broad,
 L5 Fremde Rechtsgebiete,pensionsversicherung,Broad,
 L5 Fremde Rechtsgebiete,berufsunfähigkeit,Broad,
@@ -34,3 +34,28 @@ L5 Fremde Rechtsgebiete,steuerberater,Broad,
 L5 Fremde Rechtsgebiete,steuerberatung,Broad,
 L5 Fremde Rechtsgebiete,buchhaltung,Broad,
 L5 Fremde Rechtsgebiete,notar,Broad,PRUEFEN - Notarielle Leistungen sind keine Anwaltsleistungen
+L5 Fremde Rechtsgebiete,arbeitsvertrag,Broad,Arbeitsrecht - Kanzleientscheidung 27.08.2026
+L5 Fremde Rechtsgebiete,entlassung,Broad,Arbeitsrecht
+L5 Fremde Rechtsgebiete,kündigungsanfechtung,Broad,Arbeitsrecht
+L5 Fremde Rechtsgebiete,kollektivvertrag,Broad,Arbeitsrecht
+L5 Fremde Rechtsgebiete,abfertigung,Broad,Arbeitsrecht
+L5 Fremde Rechtsgebiete,arbeitsgericht,Broad,Arbeitsrecht
+L5 Fremde Rechtsgebiete,arbeits und sozialgericht,Phrase,Arbeitsrecht
+L5 Fremde Rechtsgebiete,betriebsrat,Broad,Arbeitsrecht
+L5 Fremde Rechtsgebiete,mobbing,Broad,Arbeitsrecht
+L5 Fremde Rechtsgebiete,überstunden,Broad,Arbeitsrecht
+L5 Fremde Rechtsgebiete,urlaubsanspruch,Broad,Arbeitsrecht
+L5 Fremde Rechtsgebiete,dienstzeugnis,Broad,Arbeitsrecht
+L5 Fremde Rechtsgebiete,karenz,Broad,Arbeitsrecht
+L5 Fremde Rechtsgebiete,mietrecht,Broad,Mietrecht - Kanzleientscheidung 27.08.2026
+L5 Fremde Rechtsgebiete,mietvertrag,Broad,Mietrecht
+L5 Fremde Rechtsgebiete,mieter,Broad,Mietrecht
+L5 Fremde Rechtsgebiete,vermieter,Broad,Mietrecht
+L5 Fremde Rechtsgebiete,mietzins,Broad,Mietrecht
+L5 Fremde Rechtsgebiete,hauptmietzins,Broad,Mietrecht
+L5 Fremde Rechtsgebiete,untermiete,Broad,Mietrecht
+L5 Fremde Rechtsgebiete,räumungsklage,Broad,Mietrecht
+L5 Fremde Rechtsgebiete,mrg,Broad,Mietrechtsgesetz
+L5 Fremde Rechtsgebiete,befristeter mietvertrag,Phrase,Mietrecht
+L5 Fremde Rechtsgebiete,wohnung mieten,Phrase,Mietrecht
+L5 Fremde Rechtsgebiete,mietkaution,Broad,Mietrecht
