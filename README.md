@@ -2,6 +2,8 @@
 
 Vollständiger Kampagnen- und Strategieplan für die Mandantengewinnung über Google Ads.
 
+**Zusammenfassung als Webseite:** https://claude.ai/code/artifact/cd600dc4-8620-4630-94dc-a24bd5488aea
+
 **Kanzlei:** Dr. Martin Weiser, Rechtsanwalt
 **Standort:** Landstraßer Hauptstraße 60, Eingang Rochusgasse 2, 1030 Wien (U3 Rochusgasse)
 **Bestehend seit:** 1990
