@@ -1,12 +1,28 @@
 # 10 – 90-Tage-Fahrplan
 
-## Woche 1 – Grundlagen und Freigaben
+> **Stand 27. 08. 2026 – der Fahrplan hat sich verkürzt.**
+>
+> Die Kanzlei hat **Woche 1 und Woche 2 bereits erledigt** und schaltet seit einigen
+> Monaten Anzeigen. Damit entfällt der Aufbau von Grund auf; es geht um eine
+> **Umstellung des laufenden Kontos**, nicht um eine Neueröffnung.
+>
+> Was sich dadurch ändert:
+> - Woche 1 und 2 unten sind zur Nachkontrolle stehengeblieben, nicht als offene Aufgaben
+> - Der eigentliche Einstieg ist jetzt **Doc 13, Teil A** (Bestandsaufnahme des Kontos)
+> - Die Umstellung erfolgt gestaffelt über drei Wochen, eine Kampagne pro Woche
+> - Die Lernphase fällt kürzer aus: Auf Kontoebene hat Google bereits Daten
+> - Sobald die Exporte aus **Doc 14** vorliegen, werden die Planungsannahmen in Doc 01
+>   und Doc 12 durch die echten Kontozahlen ersetzt
 
-| # | Aufgabe | Wer | Kritisch |
+## Woche 1 – Grundlagen und Freigaben ✅ erledigt
+
+*Zur Nachkontrolle. Punkt 6 und 8 sind noch offen.*
+
+| # | Aufgabe | Wer | Status |
 |---|---|---|---|
-| 1 | **EU-Werbetreibenden-Verifizierung im Google-Ads-Konto starten** | Kanzlei | ⚠️ dauert mehrere Werktage – zuerst erledigen |
-| 2 | Zahlungsmittel und Rechnungsdaten im Konto prüfen | Kanzlei | |
-| 3 | Google Business Profile für 1030 Wien anlegen/verifizieren | Kanzlei | Postkarte dauert 1–2 Wochen |
+| 1 | ~~EU-Werbetreibenden-Verifizierung~~ | Kanzlei | ✅ zwingend erledigt – sonst würden die laufenden Anzeigen nicht ausgeliefert |
+| 2 | ~~Zahlungsmittel und Rechnungsdaten~~ | Kanzlei | ✅ erledigt – das Konto rechnet ab |
+| 3 | Google Business Profile für 1030 Wien | Kanzlei | ⚠️ **prüfen** – es sind öffentlich keine Öffnungszeiten auffindbar (Doc 12) |
 | 4 | ~~Entscheidung: Wird Mietrecht beworben?~~ | Kanzlei | ✅ erledigt 27. 08. – nein |
 | 5 | ~~Entscheidung: Wird Arbeitsrecht bearbeitet?~~ | Kanzlei | ✅ erledigt 27. 08. – nein |
 | 6 | Entscheidung: Werden Notariatsleistungen beworben? (Doc 03) | Kanzlei | |
@@ -14,11 +30,14 @@
 | 8 | Durchschnittliche Mandatswerte je Rechtsgebiet zusammenstellen | Kanzlei | Grundlage für alle CPA-Ziele |
 | 9 | Budget bestätigen (Vorschlag: 1.800 €/Monat) | Kanzlei | |
 
-**Von den vier Entscheidungen (4–7) sind drei erledigt.** Offen bleiben Punkt 6
-(Notariatsleistungen) und Punkt 8 (Mandatswerte je Rechtsgebiet). Alles Weitere kann
-parallel vorbereitet werden.
+**Offen bleiben drei Punkte:** das Google-Business-Profil (Nr. 3), die Entscheidung zu
+Notariatsleistungen (Nr. 6) und die durchschnittlichen Mandatswerte je Rechtsgebiet
+(Nr. 8). Keiner davon hält die Umstellung auf.
 
-## Woche 2 – Website und Messung
+## Woche 2 – Website und Messung ✅ erledigt
+
+*Zur Nachkontrolle. Die Messkette ist erst bestätigt, wenn eine Testanfrage als
+Conversion sichtbar war – siehe Doc 13, Teil H3.*
 
 | # | Aufgabe | Wer |
 |---|---|---|
@@ -31,6 +50,13 @@ parallel vorbereitet werden.
 | 16 | Dankeseite `/danke` anlegen | Technik |
 
 ## Woche 3 – Kampagnen aufbauen
+
+> **Ab hier gilt Doc 13 als Arbeitsanleitung.** Die folgende Übersicht nennt die
+> Schritte, Doc 13 nennt die Klickpfade.
+
+**Vorgeschaltet: Doc 13, Teil A – Bestandsaufnahme.** Bevor eine neue Kampagne aktiviert
+wird, muss feststehen, welche bestehende Kampagne dieselben Keywords bedient. Zwei
+Kampagnen desselben Kontos dürfen nie auf dieselben Begriffe bieten.
 
 | # | Aufgabe | Wer |
 |---|---|---|
@@ -53,8 +79,9 @@ parallel vorbereitet werden.
 | 28 | **Testanfrage über eine echte Anzeige durchführen** (Doc 06, Schritt 10) | Kampagnenbetreuung |
 | 29 | Testanruf durchführen, Anrufmessung in Google Ads verifizieren | Kampagnenbetreuung |
 | 30 | Prüfliste aus Doc 05, Abschnitt 5.8 abarbeiten | Kanzlei |
-| 31 | **Kampagnenstart** | |
+| 31 | **Gestaffelter Start: Erbrecht zuerst, alte Kampagne dazu pausieren** | Kampagnenbetreuung |
 | 32 | Tag 1–3: tägliche Kontrolle auf abgelehnte Anzeigen und Budget-Ausreißer | Kampagnenbetreuung |
+| 33 | Woche darauf: Immobilien + Treuhand, dann Scheidung + Familie, zuletzt Brand und Gesellschaftsrecht | Kampagnenbetreuung |
 
 > Schritt 28 wird häufig übersprungen und ist der wichtigste des ganzen Fahrplans. Erst
 > wenn eine Testanfrage in Google Ads als Conversion sichtbar ist, steht fest, dass die
@@ -72,6 +99,10 @@ parallel vorbereitet werden.
 **Regel für Wochen 5–8:** Nur Negativlisten und Gebote anfassen. Keine neuen Kampagnen,
 keine Änderung der Gebotsstrategie, keine Textänderungen. Jede strukturelle Änderung
 setzt die Lernphase zurück und verlängert die Zeit bis zu belastbaren Zahlen.
+
+> **Bei einem laufenden Konto fällt diese Phase kürzer aus.** Google hat auf Kontoebene
+> bereits Conversion-Daten gesammelt. Wie viel kürzer, hängt davon ab, wie viele
+> Conversions die letzten 30 Tage gebracht haben – siehe Doc 13, Schritt A2.
 
 ## Wochen 9–12 – Optimieren und ausbauen
 
@@ -108,8 +139,8 @@ setzt die Lernphase zurück und verlängert die Zeit bis zu belastbaren Zahlen.
 
 | Zeitraum | Realistisch zu erwarten |
 |---|---|
-| Woche 1–4 | Kosten, keine Mandate. Das ist normal. |
-| Woche 5–8 | Erste Anfragen, überwiegend Scheidungs- und Erbrecht |
+| Woche 1–4 | Bei einem laufenden Konto: die bisherigen Anfragen laufen weiter, die Struktur wird umgestellt |
+| Woche 5–8 | Erste Anfragen aus der neuen Struktur, überwiegend Scheidungs- und Erbrecht |
 | Woche 9–12 | Erste Mandate; CPA noch über Zielwert |
 | Monat 4–6 | CPA nähert sich dem Zielwert; Budget wird umgeschichtet |
 | Monat 7–12 | Eingeschwungener Betrieb, planbarer Mandatszufluss |

@@ -28,6 +28,8 @@ Vertragsrecht · Gesellschafts- & Unternehmensrecht · Stiftungsrecht · Treuhan
 | 10 | [90-Tage-Fahrplan](docs/10-90-tage-fahrplan.md) | Konkrete Umsetzungsschritte mit Terminen |
 | 11 | [Claude-Skills für dieses Projekt](docs/11-claude-skills.md) | Antwort auf: „Welche Skills helfen uns dabei?" |
 | 12 | [Telefonische Erreichbarkeit](docs/12-telefonische-erreichbarkeit.md) | Werbezeitplan, Anruf-Asset, Rückrufweg, Annahmedienst |
+| 13 | [**Implementierung Schritt für Schritt**](docs/13-implementierung-schritt-fuer-schritt.md) | Klickpfad-genaue Anleitung für Google Ads – **hier anfangen** |
+| 14 | [Was ich vom Konto brauche](docs/14-was-ich-vom-konto-brauche.md) | Welche Exporte den Plan auf echte Zahlen umstellen |
 
 ## Daten und Werkzeuge
 
@@ -67,9 +69,9 @@ Diese drei Dateien werden erzeugt, nicht von Hand bearbeitet. Änderungen gehör
 
 ## Vor dem Start prüfen
 
-- [ ] Google-Ads-Konto: EU-Werbetreibenden-Verifizierung abgeschlossen (sonst pausieren die Anzeigen)
-- [ ] Google Business Profile für 1030 Wien angelegt und verifiziert
-- [ ] Consent-Management-Plattform mit Consent Mode v2 auf drweiser.at aktiv
+- [x] Google-Ads-Konto aktiv, Anzeigen laufen seit einigen Monaten → **Bestandsaufnahme nach Doc 13, Teil A**
+- [ ] Google Business Profile für 1030 Wien: Öffnungszeiten hinterlegen (derzeit öffentlich nicht auffindbar)
+- [x] Consent Mode v2, GTM und GA4 eingerichtet → **Prüfschritte in Doc 13, Teil H**
 - [x] Rechtsgebiete-Freigabe erteilt (27. 08. 2026): kein Mietrecht, kein Arbeitsrecht
 - [x] Bürozeiten eingetragen: Mo–Do 09:00–17:00, Fr 09:00–13:00, durchgehend besetzt (Doc 12)
 
