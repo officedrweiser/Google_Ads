@@ -26,7 +26,7 @@ Vertragsrecht · Gesellschafts- & Unternehmensrecht · Stiftungsrecht · Treuhan
 | 08 | [Standesrecht-Compliance](docs/08-compliance-rl-ba.md) | RL-BA 2015 – was in Anzeigen erlaubt ist und was nicht |
 | 09 | [Betrieb, KPI & Reporting](docs/09-betrieb-kpi-reporting.md) | Wochen-/Monatsroutine, Kennzahlen |
 | 10 | [90-Tage-Fahrplan](docs/10-90-tage-fahrplan.md) | Konkrete Umsetzungsschritte mit Terminen |
-| 11 | [Claude-Skills für dieses Projekt](docs/11-claude-skills.md) | Antwort auf: „Welche Skills helfen uns dabei?" |
+| 11 | [Claude-Skills für dieses Projekt](docs/11-claude-skills.md) | Welche Skills helfen uns dabei – inkl. der 50 installierten Marketing-Skills |
 | 12 | [Telefonische Erreichbarkeit](docs/12-telefonische-erreichbarkeit.md) | Werbezeitplan, Anruf-Asset, Rückrufweg, Annahmedienst |
 | 13 | [**Implementierung Schritt für Schritt**](docs/13-implementierung-schritt-fuer-schritt.md) | Klickpfad-genaue Anleitung für Google Ads – **hier anfangen** |
 | 14 | [Was ich vom Konto brauche](docs/14-was-ich-vom-konto-brauche.md) | Welche Exporte den Plan auf echte Zahlen umstellen |
@@ -49,9 +49,21 @@ python3 tools/pruefe_anzeigen.py       # Zeichengrenzen, Duplikate, Standesrecht
 python3 tools/pruefe_negativlisten.py  # blockiert ein Ausschluss eigene Keywords?
 python3 tools/baue_editor_import.py    # Keywords, Ausschlüsse und Anzeigen
 python3 tools/baue_werbezeitplan.py    # Werbezeitplan aus den Bürozeiten
+bash    tools/aktualisiere_marketing_skills.sh  # Marketing-Skills auf neuen Stand bringen
 ```
 
 `pruefe_anzeigen.py` liefert Exit-Code 1 bei Fehlern und sollte nach jeder Textänderung laufen.
+
+### Marketing-Skills
+
+`.claude/skills/` enthält 50 Marketing-Skills aus der MIT-lizenzierten Bibliothek
+[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) – darunter `ads`,
+`ad-creative`, `cro`, `analytics` und `attribution`. Claude zieht sie automatisch heran, sobald das
+Thema passt. Welche hier einschlägig sind und wo ihre Grenzen liegen: [Doc 11](docs/11-claude-skills.md).
+Herkunft und Aktualisierung stehen in `.claude/skills/HERKUNFT.md`.
+
+**Was daraus an Anzeigentexten entsteht, geht durch [Doc 08](docs/08-compliance-rl-ba.md) und
+`pruefe_anzeigen.py` – die Skills kennen das österreichische Standesrecht nicht.**
 Aktueller Stand: **449 Assets, 30 Anzeigengruppen, 0 Beanstandungen.**
 
 ### Importdateien für den Google Ads Editor

@@ -1,18 +1,59 @@
 # 11 – Welche Claude-Skills bei diesem Projekt helfen
 
-## 11.1 Die ehrliche Vorabantwort
+## 11.1 Die Ausgangslage
 
-**Einen fertigen „Google Ads"-Skill gibt es nicht.** Ich habe die für Ihr Konto
-freigeschalteten Skills und den Skill-Katalog nach den Stichwörtern *Google Ads, PPC,
-Kampagne, Marketingstrategie, Keyword-Recherche, SEO, Werbetexte, Kanzlei* durchsucht –
-ohne Treffer.
+Im offiziellen Skill-Katalog von Anthropic gibt es **keinen Google-Ads-Skill**. Die
+dortigen Skills (`xlsx`, `docx`, `pdf`, …) erzeugen Ergebnisse – Tabellen, Berichte,
+Präsentationen –, sie leisten aber keine Kampagnenarbeit.
 
-Das ist keine schlechte Nachricht. Skills sind kein Katalog fertiger Produkte, sondern
-wiederverwendbare Arbeitsanweisungen. Der eigentliche Hebel liegt darin, aus diesem Plan
-**eigene Kanzlei-Skills zu bauen** (Abschnitt 11.3). Die vorhandenen Skills sind dabei
-das Werkzeug für die Ergebnisse, nicht für die Kampagnenarbeit selbst.
+Diese Lücke schließt eine freie Bibliothek: **[marketingskills](https://github.com/coreyhaines31/marketingskills)**
+von Corey Haines, 50 Marketing-Skills unter MIT-Lizenz, darunter ein ausgearbeiteter
+`ads`-Skill mit eigenem Google-Ads-Audit-Katalog und einer Spezifikation für
+RSA-Anzeigentexte. Sie ist in diesem Repository unter `.claude/skills/` installiert und
+steht damit in jeder Claude-Sitzung zur Verfügung, die dieses Projekt geöffnet hat
+(Abschnitt 11.2).
+
+Der eigentliche Hebel bleibt daneben unverändert: aus diesem Plan **eigene Kanzlei-Skills
+zu bauen** (Abschnitt 11.3). Die fremde Bibliothek kennt Ihre Rechtsgebiete, Ihre
+CPA-Ziele und das österreichische Standesrecht nicht – ein eigener Skill schon.
 
 ## 11.2 Vorhandene Skills und ihr Nutzen hier
+
+### Marketing-Skill-Bibliothek im Repository
+
+50 Skills liegen unter `.claude/skills/`, Herkunft und Aktualisierung sind in
+`.claude/skills/HERKUNFT.md` beschrieben. Sie werden automatisch erkannt, sobald das
+Thema passt – ein Aufruf per `/name` ist möglich, aber nicht nötig. Diese sind hier
+einschlägig:
+
+| Skill | Wofür in diesem Projekt |
+|---|---|
+| **`product-marketing`** | Das Fundament. Legt eine Kontextdatei mit Kanzleiprofil, Zielgruppe und Positionierung an, die alle übrigen Skills zuerst lesen. **Vor der ersten Nutzung einmal ausführen.** |
+| **`ads`** | Kampagnenstruktur, Gebote, Zielgruppen, Ausschlüsse, Performance Max. Enthält eine Google-Ads-Audit-Checkliste und eine Formatvorgabe für RSA-Texte – direkt anwendbar auf Doc 02, 03 und 07 |
+| **`ad-creative`** | Neue Anzeigentitel und Beschreibungen in Menge erzeugen und durchtesten – die Arbeit hinter `data/anzeigen/` |
+| **`cro`** | Landingpages und Kontaktformulare auf Anfragen optimieren (Doc 05) |
+| **`copywriting`** / **`copy-editing`** | Seitentexte schreiben und überarbeiten; bestehende Anzeigentexte nachschärfen |
+| **`analytics`** | Ereignis- und Conversion-Messung sauber aufsetzen (Doc 06) |
+| **`attribution`** | Beurteilen, welcher Kanal ein Mandat tatsächlich ausgelöst hat – bei langen Entscheidungswegen im Familien- und Erbrecht der Knackpunkt |
+| **`ab-testing`** | Anzeigen- und Seitentests planen, ohne sich Ergebnisse einzubilden, die statistisch nicht tragen |
+| **`seo-audit`**, **`schema`**, **`site-architecture`** | Website drweiser.at: technische Prüfung, `Attorney`-/`LegalService`-Auszeichnung, Seitenstruktur je Rechtsgebiet |
+| **`ai-seo`** | Auffindbarkeit in KI-Antworten – wachsender Anteil der Erstrecherche bei Rechtsfragen |
+| **`competitors`**, **`competitor-profiling`** | Mitbewerberkanzleien in 1030/1010 Wien einordnen |
+| **`customer-research`** | Mandantengespräche auswerten; liefert die Sprache, die in Anzeigen wirklich funktioniert |
+| **`marketing-psychology`** | Vertrauensaufbau bei einer Entscheidung, die Menschen ungern treffen |
+| **`marketing-plan`** | Gesamtplan über alle Kanäle, falls die Kanzlei über Google Ads hinausgeht |
+| **`public-relations`**, **`events`** | Fachbeiträge, Vorträge, Presseanfragen als Ergänzung zur bezahlten Sichtbarkeit |
+
+**Zwei Einschränkungen, die Sie kennen müssen:**
+
+1. **Die Skills sind für SaaS-Produkte geschrieben, nicht für Kanzleien.** Rund die Hälfte
+   (`paywalls`, `onboarding`, `churn-prevention`, `referrals`, `aso`, `free-tools`,
+   `programmatic-seo`, `community-marketing`) trifft auf eine Einzelkanzlei nicht zu.
+   `referrals` ist darüber hinaus heikel: Provisionen für Mandatsvermittlung sind
+   standesrechtlich unzulässig.
+2. **Sie kennen das österreichische Standesrecht nicht.** Alles, was aus diesen Skills an
+   Anzeigen- oder Seitentexten kommt, geht durch **Doc 08 (RL-BA 2015)** und durch
+   `python3 tools/pruefe_anzeigen.py`. Im Zweifel gilt Doc 08, nicht der Skill.
 
 ### Bereits für Ihr Konto freigeschaltet
 
@@ -107,8 +148,8 @@ Das kommt ohne API-Anbindung aus und deckt den praktischen Bedarf einer Einzelka
 
 | Frage | Antwort |
 |---|---|
-| Gibt es einen fertigen Google-Ads-Skill? | Nein |
-| Was hilft trotzdem sofort? | `xlsx`, `docx`, `pptx`, `pdf`, `dataviz`, Artifacts |
+| Gibt es einen fertigen Google-Ads-Skill? | Im Anthropic-Katalog nein, in der Bibliothek `marketingskills` ja (`ads`) |
+| Was hilft sofort? | `ads`, `ad-creative`, `cro`, `analytics`, `attribution` aus der Bibliothek; `xlsx`, `docx`, `pptx`, `pdf`, `dataviz`, Artifacts für die Ergebnisse |
 | Wo liegt der eigentliche Hebel? | `skill-creator` – eigene Kanzlei-Skills aus diesem Plan |
 | Was ist die lohnendste erste Automatisierung? | `kanzlei-negativliste` (wöchentlich) und `kanzlei-ads-monatscheck` (monatlich) |
-| Wovon ist abzuraten? | KI-generierte Bilder als Anzeigen-Assets |
+| Wovon ist abzuraten? | KI-generierte Bilder als Anzeigen-Assets; Skill-Ausgaben ohne Prüfung nach Doc 08 übernehmen |
